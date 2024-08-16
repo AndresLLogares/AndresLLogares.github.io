@@ -1051,6 +1051,6 @@ C:\Projects\PortfolioBlazor\PortfolioBlazor.Client\obj\Release\net8.0\PortfolioB
 C:\Projects\PortfolioBlazor\PortfolioBlazor.Client\obj\Release\net8.0\refint\PortfolioBlazor.Client.dll
 C:\Projects\PortfolioBlazor\PortfolioBlazor.Client\obj\Release\net8.0\PortfolioBlazor.Client.pdb
 C:\Projects\PortfolioBlazor\PortfolioBlazor.Client\obj\Release\net8.0\ref\PortfolioBlazor.Client.dll
-C:\Projects\PortfolioBlazor\PortfolioBlazor.Client\obj\Release\net8.0\compressed\h638zcofdn-18w6qwholu.gz
-C:\Projects\PortfolioBlazor\PortfolioBlazor.Client\obj\Release\net8.0\compressed\ia9uqwn3xo-9sm2z01oml.gz
-C:\Projects\PortfolioBlazor\PortfolioBlazor.Client\obj\Release\net8.0\compressed\b7389wuqx0-4ranedu5k7.gz
+C:\Projects\PortfolioBlazor\PortfolioBlazor.Client\obj\Release\net8.0\compressed\h638zcofdn-uddm19vg0a.gz
+C:\Projects\PortfolioBlazor\PortfolioBlazor.Client\obj\Release\net8.0\compressed\ia9uqwn3xo-k7e3fq6xs7.gz
+C:\Projects\PortfolioBlazor\PortfolioBlazor.Client\obj\Release\net8.0\compressed\b7389wuqx0-jbru4chlai.gz

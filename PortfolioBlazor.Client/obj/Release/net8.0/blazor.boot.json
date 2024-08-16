@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "PortfolioBlazor.Client",
   "resources": {
-    "hash": "sha256-KMbZ5m7ggo+y3U6o3yX421yj7rpEEkyL7oDtYKluHoc=",
+    "hash": "sha256-jTzoEuGYYy4ThGJj4gJlsurxQyk9fh/nsh1EXNhwR/4=",
     "jsModuleNative": {
       "dotnet.native.8.0.7.lglff0pbgc.js": "sha256-tFsxPBbhkdn6GKNBKvCRLzrfAHdyM86odYTe0MtrwMk="
     },
@@ -213,10 +213,10 @@
       "mscorlib.wasm": "sha256-fLbZiSHBNdpHoh4EgRqMaNP5NQyIK5TEj6AXFLqo8m8=",
       "netstandard.wasm": "sha256-d4xbAE8qrKq5euUoZHPO+jkYPjlCYBzUew45MKsYKic=",
       "System.Private.CoreLib.wasm": "sha256-8yi6NcX1lkNQgV4WKjnMBYIZyKh4P+OXnXVQmgxGZD4=",
-      "PortfolioBlazor.Client.wasm": "sha256-Xy35FkyAjPPxvGpXXJ0S6d/H2GXxIrVK6XH+oreycKU="
+      "PortfolioBlazor.Client.wasm": "sha256-QkJITOHdkb0as+1q5t7nrb2THfyLKM3NQz0CnWhbpsU="
     },
     "pdb": {
-      "PortfolioBlazor.Client.pdb": "sha256-2fKhyB0FwL8yy5G4ZhBwaWB7jeEkpjgZBBL7UxQ5VvY="
+      "PortfolioBlazor.Client.pdb": "sha256-UN5P6AfFg4z8BpUU4SK79hvu/LKg4hgEUvqKAFMFWcE="
     },
     "libraryInitializers": {
       "_content/Toolbelt.Blazor.GetProperty.Script/Toolbelt.Blazor.GetProperty.Script.lib.module.js": "sha256-rN9ebccf1yzi+bWyyip51JJuAKONWUHDBKWnKUpDWAA="

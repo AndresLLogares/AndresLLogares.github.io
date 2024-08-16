@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dYeBDC9C0q7Ww2qqGVVk89ftTVvBR7XYv1ggEbaysIE=",
+  "Hash": "ODVnpn1FcJ/+HjLcXPj7SL+qMgRLKBrx9eqTpycZvoQ=",
   "Source": "PortfolioBlazor.Client",
   "BasePath": "/",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "4ranedu5k7",
-      "Integrity": "MNh8ifLI2ltFLMZm9g5uOh0CpUfZwtR19ylwPGeg7fI=",
+      "Fingerprint": "jbru4chlai",
+      "Integrity": "MZbG0bfBmPO3B4azvJgFfRAem8yi9wYrdiK7+Si1I0A=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Release\\net8.0\\blazor.boot.json"
@@ -955,8 +955,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "9sm2z01oml",
-      "Integrity": "2fKhyB0FwL8yy5G4ZhBwaWB7jeEkpjgZBBL7UxQ5VvY=",
+      "Fingerprint": "k7e3fq6xs7",
+      "Integrity": "UN5P6AfFg4z8BpUU4SK79hvu/LKg4hgEUvqKAFMFWcE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Release\\net8.0\\PortfolioBlazor.Client.pdb"
@@ -976,8 +976,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "18w6qwholu",
-      "Integrity": "Xy35FkyAjPPxvGpXXJ0S6d/H2GXxIrVK6XH+oreycKU=",
+      "Fingerprint": "uddm19vg0a",
+      "Integrity": "QkJITOHdkb0as+1q5t7nrb2THfyLKM3NQz0CnWhbpsU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\obj\\Release\\net8.0\\webcil\\PortfolioBlazor.Client.wasm"
@@ -5666,7 +5666,7 @@
       "OriginalItemSpec": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.7.kgaqo9tt37.js"
     },
     {
-      "Identity": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\obj\\Release\\net8.0\\compressed\\b7389wuqx0-4ranedu5k7.gz",
+      "Identity": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\obj\\Release\\net8.0\\compressed\\b7389wuqx0-jbru4chlai.gz",
       "SourceId": "PortfolioBlazor.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\obj\\Release\\net8.0\\compressed\\",
@@ -5680,8 +5680,8 @@
       "RelatedAsset": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "n2h3wf1syv",
-      "Integrity": "0bo9nzrsuo/GvFra7BHmg++xkGMqOTwF4OHBV8mB8uI=",
+      "Fingerprint": "m23wizfo7j",
+      "Integrity": "cnp8TJyBx/OmORQdPkVudaDILytNuSWCouhzfhnfW7A=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -6464,7 +6464,7 @@
       "OriginalItemSpec": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.Cng.wasm"
     },
     {
-      "Identity": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\obj\\Release\\net8.0\\compressed\\h638zcofdn-18w6qwholu.gz",
+      "Identity": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\obj\\Release\\net8.0\\compressed\\h638zcofdn-uddm19vg0a.gz",
       "SourceId": "PortfolioBlazor.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\obj\\Release\\net8.0\\compressed\\",
@@ -6478,8 +6478,8 @@
       "RelatedAsset": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\PortfolioBlazor.Client.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "2mpxqke4bw",
-      "Integrity": "6gleZxzZgekmX6YHBmkaoarXjaxfGcKSkbwogWhX5DA=",
+      "Fingerprint": "j7tmd22lhl",
+      "Integrity": "XxIRgXWrq+cwEMddnffHBDc71peTXLn8o5ikJihg5nA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\PortfolioBlazor.Client.wasm"
@@ -6695,7 +6695,7 @@
       "OriginalItemSpec": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.Xml.XPath.wasm"
     },
     {
-      "Identity": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\obj\\Release\\net8.0\\compressed\\ia9uqwn3xo-9sm2z01oml.gz",
+      "Identity": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\obj\\Release\\net8.0\\compressed\\ia9uqwn3xo-k7e3fq6xs7.gz",
       "SourceId": "PortfolioBlazor.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\obj\\Release\\net8.0\\compressed\\",
@@ -6709,8 +6709,8 @@
       "RelatedAsset": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\PortfolioBlazor.Client.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "jnaflol7r6",
-      "Integrity": "r4iH+LJlsegs4ymenGI99pXH8137knWIV1CpA3X+Zkw=",
+      "Fingerprint": "tzvpltwxar",
+      "Integrity": "OXcvy7RFlJpL2yuMqpEs2Qca7+k291OWD4tLyxziEVA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\PortfolioBlazor.Client.pdb"
@@ -9840,7 +9840,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MNh8ifLI2ltFLMZm9g5uOh0CpUfZwtR19ylwPGeg7fI=\""
+          "Value": "\"MZbG0bfBmPO3B4azvJgFfRAem8yi9wYrdiK7+Si1I0A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 Aug 2024 16:39:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MZbG0bfBmPO3B4azvJgFfRAem8yi9wYrdiK7+Si1I0A="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/blazor.boot.json",
+      "AssetFile": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\obj\\Release\\net8.0\\compressed\\b7389wuqx0-jbru4chlai.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0,000109565027"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9126"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cnp8TJyBx/OmORQdPkVudaDILytNuSWCouhzfhnfW7A=\""
         },
         {
           "Name": "Last-Modified",
@@ -9849,45 +9888,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-MNh8ifLI2ltFLMZm9g5uOh0CpUfZwtR19ylwPGeg7fI="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\obj\\Release\\net8.0\\compressed\\b7389wuqx0-4ranedu5k7.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0,000109553024"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9127"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0bo9nzrsuo/GvFra7BHmg++xkGMqOTwF4OHBV8mB8uI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 16 Aug 2024 14:12:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -9903,19 +9903,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"MNh8ifLI2ltFLMZm9g5uOh0CpUfZwtR19ylwPGeg7fI=\""
+          "Value": "W/\"MZbG0bfBmPO3B4azvJgFfRAem8yi9wYrdiK7+Si1I0A=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MNh8ifLI2ltFLMZm9g5uOh0CpUfZwtR19ylwPGeg7fI="
+          "Value": "sha256-MZbG0bfBmPO3B4azvJgFfRAem8yi9wYrdiK7+Si1I0A="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\obj\\Release\\net8.0\\compressed\\b7389wuqx0-4ranedu5k7.gz",
+      "AssetFile": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\obj\\Release\\net8.0\\compressed\\b7389wuqx0-jbru4chlai.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9924,7 +9924,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9127"
+          "Value": "9126"
         },
         {
           "Name": "Content-Type",
@@ -9932,11 +9932,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0bo9nzrsuo/GvFra7BHmg++xkGMqOTwF4OHBV8mB8uI=\""
+          "Value": "\"cnp8TJyBx/OmORQdPkVudaDILytNuSWCouhzfhnfW7A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 Aug 2024 14:12:44 GMT"
+          "Value": "Fri, 16 Aug 2024 14:27:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9954,7 +9954,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0bo9nzrsuo/GvFra7BHmg++xkGMqOTwF4OHBV8mB8uI="
+          "Value": "sha256-cnp8TJyBx/OmORQdPkVudaDILytNuSWCouhzfhnfW7A="
         }
       ]
     },
@@ -15868,7 +15868,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2fKhyB0FwL8yy5G4ZhBwaWB7jeEkpjgZBBL7UxQ5VvY=\""
+          "Value": "\"UN5P6AfFg4z8BpUU4SK79hvu/LKg4hgEUvqKAFMFWcE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 Aug 2024 16:39:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UN5P6AfFg4z8BpUU4SK79hvu/LKg4hgEUvqKAFMFWcE="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/PortfolioBlazor.Client.pdb",
+      "AssetFile": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\obj\\Release\\net8.0\\compressed\\ia9uqwn3xo-k7e3fq6xs7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0,000037454586"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26698"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OXcvy7RFlJpL2yuMqpEs2Qca7+k291OWD4tLyxziEVA=\""
         },
         {
           "Name": "Last-Modified",
@@ -15877,45 +15916,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-2fKhyB0FwL8yy5G4ZhBwaWB7jeEkpjgZBBL7UxQ5VvY="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/PortfolioBlazor.Client.pdb",
-      "AssetFile": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\obj\\Release\\net8.0\\compressed\\ia9uqwn3xo-9sm2z01oml.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0,000037451781"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "26700"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"r4iH+LJlsegs4ymenGI99pXH8137knWIV1CpA3X+Zkw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 16 Aug 2024 14:12:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -15931,19 +15931,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"2fKhyB0FwL8yy5G4ZhBwaWB7jeEkpjgZBBL7UxQ5VvY=\""
+          "Value": "W/\"UN5P6AfFg4z8BpUU4SK79hvu/LKg4hgEUvqKAFMFWcE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2fKhyB0FwL8yy5G4ZhBwaWB7jeEkpjgZBBL7UxQ5VvY="
+          "Value": "sha256-UN5P6AfFg4z8BpUU4SK79hvu/LKg4hgEUvqKAFMFWcE="
         }
       ]
     },
     {
       "Route": "_framework/PortfolioBlazor.Client.pdb.gz",
-      "AssetFile": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\obj\\Release\\net8.0\\compressed\\ia9uqwn3xo-9sm2z01oml.gz",
+      "AssetFile": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\obj\\Release\\net8.0\\compressed\\ia9uqwn3xo-k7e3fq6xs7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15952,7 +15952,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "26700"
+          "Value": "26698"
         },
         {
           "Name": "Content-Type",
@@ -15960,11 +15960,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"r4iH+LJlsegs4ymenGI99pXH8137knWIV1CpA3X+Zkw=\""
+          "Value": "\"OXcvy7RFlJpL2yuMqpEs2Qca7+k291OWD4tLyxziEVA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 Aug 2024 14:12:42 GMT"
+          "Value": "Fri, 16 Aug 2024 14:27:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15982,7 +15982,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-r4iH+LJlsegs4ymenGI99pXH8137knWIV1CpA3X+Zkw="
+          "Value": "sha256-OXcvy7RFlJpL2yuMqpEs2Qca7+k291OWD4tLyxziEVA="
         }
       ]
     },
@@ -16005,7 +16005,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Xy35FkyAjPPxvGpXXJ0S6d/H2GXxIrVK6XH+oreycKU=\""
+          "Value": "\"QkJITOHdkb0as+1q5t7nrb2THfyLKM3NQz0CnWhbpsU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 Aug 2024 16:39:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QkJITOHdkb0as+1q5t7nrb2THfyLKM3NQz0CnWhbpsU="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/PortfolioBlazor.Client.wasm",
+      "AssetFile": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\obj\\Release\\net8.0\\compressed\\h638zcofdn-uddm19vg0a.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0,000052639891"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18996"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XxIRgXWrq+cwEMddnffHBDc71peTXLn8o5ikJihg5nA=\""
         },
         {
           "Name": "Last-Modified",
@@ -16014,45 +16053,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Xy35FkyAjPPxvGpXXJ0S6d/H2GXxIrVK6XH+oreycKU="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/PortfolioBlazor.Client.wasm",
-      "AssetFile": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\obj\\Release\\net8.0\\compressed\\h638zcofdn-18w6qwholu.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0,000052650977"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "18992"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6gleZxzZgekmX6YHBmkaoarXjaxfGcKSkbwogWhX5DA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 16 Aug 2024 14:12:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -16068,19 +16068,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Xy35FkyAjPPxvGpXXJ0S6d/H2GXxIrVK6XH+oreycKU=\""
+          "Value": "W/\"QkJITOHdkb0as+1q5t7nrb2THfyLKM3NQz0CnWhbpsU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Xy35FkyAjPPxvGpXXJ0S6d/H2GXxIrVK6XH+oreycKU="
+          "Value": "sha256-QkJITOHdkb0as+1q5t7nrb2THfyLKM3NQz0CnWhbpsU="
         }
       ]
     },
     {
       "Route": "_framework/PortfolioBlazor.Client.wasm.gz",
-      "AssetFile": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\obj\\Release\\net8.0\\compressed\\h638zcofdn-18w6qwholu.gz",
+      "AssetFile": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\obj\\Release\\net8.0\\compressed\\h638zcofdn-uddm19vg0a.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16089,7 +16089,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "18992"
+          "Value": "18996"
         },
         {
           "Name": "Content-Type",
@@ -16097,11 +16097,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6gleZxzZgekmX6YHBmkaoarXjaxfGcKSkbwogWhX5DA=\""
+          "Value": "\"XxIRgXWrq+cwEMddnffHBDc71peTXLn8o5ikJihg5nA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 Aug 2024 14:12:43 GMT"
+          "Value": "Fri, 16 Aug 2024 14:27:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16119,7 +16119,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6gleZxzZgekmX6YHBmkaoarXjaxfGcKSkbwogWhX5DA="
+          "Value": "sha256-XxIRgXWrq+cwEMddnffHBDc71peTXLn8o5ikJihg5nA="
         }
       ]
     },

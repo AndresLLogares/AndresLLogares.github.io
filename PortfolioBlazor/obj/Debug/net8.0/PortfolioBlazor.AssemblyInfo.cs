@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PortfolioBlazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87a0a5ac6d2e00eebc0d3ddd906fc9827a6b579d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5163464a782a77b570f0e82b0050bbc179ebaf4f")]
 [assembly: System.Reflection.AssemblyProductAttribute("PortfolioBlazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PortfolioBlazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
