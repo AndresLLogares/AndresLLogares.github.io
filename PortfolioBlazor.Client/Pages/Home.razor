@@ -1,0 +1,118 @@
+﻿@page "/"
+@inject StyleModeIApi StyleModeIApi
+
+<PageTitle>AboutMe</PageTitle>
+
+<MudText Typo="Typo.h3" Color="Color.Primary" GutterBottom="true">About Me</MudText>
+<br />
+<br />
+<MudText Typo="Typo.body2" Color="Color.Primary">
+    I’m a self-taught developer with a strong foundation in modern web technologies such as JavaScript,<br />
+    React, Node.js, and Express. My journey began with freelancing, where I honed my skills working on<br />
+    various projects, including web pages and NFT galleries during their peak popularity.<br />
+    <br />
+    I then transitioned to a full-time role at a company focused on NFT web solutions, where I gained<br />
+    invaluable experience in the rapidly evolving digital space. After more than a year, I joined Accenture,<br />
+    working on projects for Banco Galicia.<br />
+    <br />
+    At Banco Galicia, I initially contributed to the migration of self-service terminals to React, enhancing<br />
+    the user experience across multiple platforms. Currently, I’m working with the Investments tribe,<br />
+    leading the migration of SAP applications to React, a project that continues to challenge and inspire me<br />
+    <br />
+    I am passionate about leveraging technology to create impactful solutions, and I’m constantly<br />
+    seeking opportunities to learn and grow in this dynamic field.<br />
+    <br />
+    <br />
+</MudText>
+<br />
+<MudText Typo="Typo.h5" Color="Color.Primary" GutterBottom="true">You can contact me in the following ways</MudText>
+<br />
+<MudGrid>
+    <MudItem xs="12">
+        <MudButton Target="_blank"
+                   Rel="nofollow noopener"
+                   Variant="Variant.Filled"
+                   Color="Color.Secondary"
+                   Style=@ShadowButtonAction()
+                   Href="https://www.linkedin.com/in/andr%C3%A9s-luis-logares-522595172/"
+                   StartIcon="fa-brands fa-linkedin fa-bounce"
+                   Size="Size.Large">
+            <MudText Typo="Typo.body1">Linkedin</MudText>
+        </MudButton>
+    </MudItem>
+    <MudItem xs="12">
+        <MudButton Target="_blank"
+                   Rel="nofollow noopener"
+                   Variant="Variant.Filled"
+                   Color="Color.Secondary"
+                   Style=@ShadowButtonAction()
+                   Href="https://github.com/AndresLLogares"
+                   StartIcon="fa-brands fa-github fa-bounce"
+                   Size="Size.Large">
+            <MudText Typo="Typo.body1">Github</MudText>
+        </MudButton>
+    </MudItem>
+    <MudItem xs="12">
+        <MudButton Target="_blank"
+                   Rel="nofollow noopener"
+                   Variant="Variant.Filled"
+                   Color="Color.Secondary"
+                   Style=@ShadowButtonAction()
+                   Href="https://wa.me/5491136005563"
+                   StartIcon="fa-brands fa-whatsapp fa-bounce"
+                   Size="Size.Large">
+            <MudText Typo="Typo.body1">WhatsApp</MudText>
+        </MudButton>
+    </MudItem>
+    <MudItem xs="12">
+        <MudButton Target="_blank"
+                   Rel="nofollow noopener"
+                   Variant="Variant.Filled"
+                   Color="Color.Secondary"
+                   Style=@ShadowButtonAction()
+                   Href="mailto:andresl940@hotmail.com"
+                   StartIcon="fa-regular fa-paper-plane fa-bounce"
+                   Size="Size.Large">
+            <MudText Typo="Typo.body1">Email</MudText>
+        </MudButton>
+    </MudItem>
+    <MudItem xs="12">
+        <MudButton Target="_blank"
+                   Rel="nofollow noopener"
+                   Variant="Variant.Filled"
+                   Color="Color.Secondary"
+                   Style=@ShadowButtonAction()
+                   Href="https://drive.google.com/file/d/1jkP_jCG66JDquoF5S_2Xm7YdkRo0C2gz/view"
+                   StartIcon="fa-regular fa-file fa-bounce"
+                   Size="Size.Large">
+            <MudText Typo="Typo.body1">Resume</MudText>
+        </MudButton>
+    </MudItem>
+</MudGrid>
+
+
+@code {
+
+    protected override void OnInitialized()
+    {
+        StyleModeIApi.OnChange += StateHasChanged;
+    }
+
+    public void Dispose()
+    {
+        StyleModeIApi.OnChange -= StateHasChanged;
+    }
+
+    private string ShadowButtonAction()
+    {
+        if (StyleModeIApi.IsDarkMode == false)
+        {
+            return "border: 3px solid #fd5317; box-shadow: -5px 5px #0e1424, -4px 4px #0e1424,-2px 2px #0e1424; color:#F5F7F8; min-width:175px; min-height:75px;";
+        }
+        else
+        {
+            return "border: 3px solid #F5F7F8; box-shadow: -5px 5px #FF8343, -4px 4px #FF8343,-2px 2px #FF8343; color:#F5F7F8; min-width:175px; min-height:75px;";
+        }
+    }
+
+}

@@ -1,0 +1,169 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\obj\\Debug\\net8.0\\compressed\\qjo9dgm5dy.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\Fonts\\Montserrat\\Montserrat-Italic-VariableFont_wght.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\Montserrat\\Montserrat-Italic-VariableFont_wght.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\Fonts\\Montserrat\\Montserrat-VariableFont_wght.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\Montserrat\\Montserrat-VariableFont_wght.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\Fonts\\Montserrat\\OFL.txt",
+      "PackagePath": "staticwebassets\\Fonts\\Montserrat\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\Fonts\\Montserrat\\README.txt",
+      "PackagePath": "staticwebassets\\Fonts\\Montserrat\\README.txt"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\Fonts\\Montserrat\\static\\Montserrat-Black.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\Montserrat\\static\\Montserrat-Black.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\Fonts\\Montserrat\\static\\Montserrat-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\Montserrat\\static\\Montserrat-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\Fonts\\Montserrat\\static\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\Montserrat\\static\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\Fonts\\Montserrat\\static\\Montserrat-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\Montserrat\\static\\Montserrat-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\Fonts\\Montserrat\\static\\Montserrat-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\Montserrat\\static\\Montserrat-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\Fonts\\Montserrat\\static\\Montserrat-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\Montserrat\\static\\Montserrat-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\Fonts\\Montserrat\\static\\Montserrat-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\Montserrat\\static\\Montserrat-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\Fonts\\Montserrat\\static\\Montserrat-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\Montserrat\\static\\Montserrat-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\Fonts\\Montserrat\\static\\Montserrat-Italic.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\Montserrat\\static\\Montserrat-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\Fonts\\Montserrat\\static\\Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\Montserrat\\static\\Montserrat-Light.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\Fonts\\Montserrat\\static\\Montserrat-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\Montserrat\\static\\Montserrat-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\Fonts\\Montserrat\\static\\Montserrat-Medium.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\Montserrat\\static\\Montserrat-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\Fonts\\Montserrat\\static\\Montserrat-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\Montserrat\\static\\Montserrat-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\Fonts\\Montserrat\\static\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\Montserrat\\static\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\Fonts\\Montserrat\\static\\Montserrat-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\Montserrat\\static\\Montserrat-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\Fonts\\Montserrat\\static\\Montserrat-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\Montserrat\\static\\Montserrat-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\Fonts\\Montserrat\\static\\Montserrat-Thin.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\Montserrat\\static\\Montserrat-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\Fonts\\Montserrat\\static\\Montserrat-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\Montserrat\\static\\Montserrat-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\Fonts\\Oswald\\OFL.txt",
+      "PackagePath": "staticwebassets\\Fonts\\Oswald\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\Fonts\\Oswald\\Oswald-VariableFont_wght.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\Oswald\\Oswald-VariableFont_wght.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\Fonts\\Oswald\\README.txt",
+      "PackagePath": "staticwebassets\\Fonts\\Oswald\\README.txt"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\Fonts\\Oswald\\static\\Oswald-Bold.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\Oswald\\static\\Oswald-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\Fonts\\Oswald\\static\\Oswald-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\Oswald\\static\\Oswald-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\Fonts\\Oswald\\static\\Oswald-Light.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\Oswald\\static\\Oswald-Light.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\Fonts\\Oswald\\static\\Oswald-Medium.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\Oswald\\static\\Oswald-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\Fonts\\Oswald\\static\\Oswald-Regular.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\Oswald\\static\\Oswald-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\Fonts\\Oswald\\static\\Oswald-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\Oswald\\static\\Oswald-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\Images\\logo.svg",
+      "PackagePath": "staticwebassets\\Images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PortfolioBlazor.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PortfolioBlazor.Client.props",
+      "PackagePath": "build\\PortfolioBlazor.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PortfolioBlazor.Client.props",
+      "PackagePath": "buildMultiTargeting\\PortfolioBlazor.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PortfolioBlazor.Client.props",
+      "PackagePath": "buildTransitive\\PortfolioBlazor.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

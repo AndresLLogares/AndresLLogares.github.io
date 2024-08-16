@@ -1,0 +1,231 @@
+﻿@page "/techonologies"
+
+@inject StyleModeIApi StyleModeIApi
+@implements IBrowserViewportObserver
+@implements IAsyncDisposable
+
+@using MudBlazor.Services
+
+<PageTitle>Technologies</PageTitle>
+
+
+<MudText Typo="Typo.h3" Color="Color.Primary" GutterBottom="true">Technologies</MudText>
+<br />
+<br />
+<MudGrid>
+    <MudItem xs=Resize()>
+        <MudButton Variant="Variant.Filled"
+                   Rel="noreferrer"
+                   Target="_blank"
+                   Href="https://es.reactjs.org/"
+                   Color="Color.Warning"
+                   Style=@ShadowButtonAction()
+                   Size="Size.Large">
+            <MudIcon Style="margin-right: 20px;" Icon="fa-brands fa-react fa-bounce" Title="React" />
+            <MudText Inline="false" Typo="Typo.body1">React</MudText>
+        </MudButton>
+    </MudItem>
+    <MudItem xs=Resize()>
+        <MudButton Variant="Variant.Filled"
+                   Color="Color.Warning"
+                   Rel="noreferrer"
+                   Target="_blank"
+                   Href="https://nodejs.org/es/"
+                   Style=@ShadowButtonAction()
+                   Size="Size.Large">
+            <MudIcon Style="margin-right: 20px;" Icon="fa-brands fa-node-js fa-bounce" Title="Node" />
+            <MudText Inline="false" Typo="Typo.body1">Node.js</MudText>
+        </MudButton>
+    </MudItem>
+    <MudItem xs=Resize()>
+        <MudButton Variant="Variant.Filled"
+                   Color="Color.Warning"
+                   Rel="noreferrer"
+                   Target="_blank"
+                   Href="https://www.javascript.com/"
+                   Style=@ShadowButtonAction()
+                   Size="Size.Large">
+            <MudIcon Style="margin-right: 20px;" Icon="fa-brands fa-js fa-bounce" Title="Javascript" />
+            <MudText Inline="false" Typo="Typo.body1">Javascript</MudText>
+        </MudButton>
+    </MudItem>
+    <MudItem xs=Resize()>
+        <MudButton Variant="Variant.Filled"
+                   Color="Color.Warning"
+                   Rel="noreferrer"
+                   Target="_blank"
+                   Href="https://es.redux.js.org/"
+                   Style=@ShadowButtonAction()
+                   Size="Size.Large">
+            <MudIcon Style="margin-right: 20px;" Icon="fa-brands fa-react fa-bounce" Title="Redux" />
+            <MudText Inline="false" Typo="Typo.body1">Redux</MudText>
+        </MudButton>
+    </MudItem>
+    <MudItem xs=Resize()>
+        <MudButton Variant="Variant.Filled"
+                   Color="Color.Warning"
+                   Rel="noreferrer"
+                   Target="_blank"
+                   Href="https://html.com/"
+                   Style=@ShadowButtonAction()
+                   Size="Size.Large">
+            <MudIcon Style="margin-right: 20px;" Icon="fa-brands fa-html5 fa-bounce" Title="HTML" />
+            <MudText Inline="false" Typo="Typo.body1">HTML</MudText>
+        </MudButton>
+    </MudItem>
+    <MudItem xs=Resize()>
+        <MudButton Variant="Variant.Filled"
+                   Color="Color.Warning"
+                   Rel="noreferrer"
+                   Target="_blank"
+                   Href="https://www.w3.org/Style/CSS/Overview.en.html"
+                   Style=@ShadowButtonAction()
+                   Size="Size.Large">
+            <MudIcon Style="margin-right: 20px;" Icon="fa-brands fa-css3 fa-bounce" Title="CSS" />
+            <MudText Inline="false" Typo="Typo.body1">CSS</MudText>
+        </MudButton>
+    </MudItem>
+    <MudItem xs=Resize()>
+        <MudButton Variant="Variant.Filled"
+                   Color="Color.Warning"
+                   Rel="noreferrer"
+                   Target="_blank"
+                   Href="https://www.mongodb.com/"
+                   Style=@ShadowButtonAction()
+                   Size="Size.Large">
+            <MudIcon Style="margin-right: 20px;" Icon="fa-solid fa-database fa-bounce" Title="Mongo" />
+            <MudText Inline="false" Typo="Typo.body1">Mongo</MudText>
+        </MudButton>
+    </MudItem>
+    <MudItem xs=Resize()>
+        <MudButton Variant="Variant.Filled"
+                   Color="Color.Secondary"
+                   Rel="noreferrer"
+                   Target="_blank"
+                   Href="https://nextjs.org/"
+                   Style=@ShadowButtonAction()
+                   Size="Size.Large">
+            <MudIcon Style="margin-right: 20px;" Icon="fa-brands fa-react fa-bounce" Title="Next" />
+            <MudText Inline="false" Typo="Typo.body1">Next.js</MudText>
+        </MudButton>
+    </MudItem>
+    <MudItem xs=Resize()>
+        <MudButton Variant="Variant.Filled"
+                   Color="Color.Secondary"
+                   Rel="noreferrer"
+                   Target="_blank"
+                   Href="https://nestjs.com/"
+                   Style=@ShadowButtonAction()
+                   Size="Size.Large">
+            <MudIcon Style="margin-right: 20px;" Icon="fa-brands fa-node-js fa-bounce" Title="Nest" />
+            <MudText Inline="false" Typo="Typo.body1">Nest.js</MudText>
+        </MudButton>
+    </MudItem>
+    <MudItem xs=Resize()>
+        <MudButton Variant="Variant.Filled"
+                   Color="Color.Secondary"
+                   Rel="noreferrer"
+                   Target="_blank"
+                   Href="https://www.typescriptlang.org/"
+                   Style=@ShadowButtonAction()
+                   Size="Size.Large">
+            <MudIcon Style="margin-right: 20px;" Icon="fa-brands fa-js fa-bounce" Title="Typescript" />
+            <MudText Inline="false" Typo="Typo.body1">Typescript</MudText>
+        </MudButton>
+    </MudItem>
+    <MudItem xs=Resize()>
+        <MudButton Variant="Variant.Filled"
+                   Color="Color.Secondary"
+                   Rel="noreferrer"
+                   Target="_blank"
+                   Href="https://mui.com/"
+                   Style=@ShadowButtonAction()
+                   Size="Size.Large">
+            <MudIcon Style="margin-right: 20px;" Icon="fa-brands fa-react fa-bounce" Title="MaterialUI" />
+            <MudText Inline="false" Typo="Typo.body1">MaterialUI</MudText>
+        </MudButton>
+    </MudItem>
+    <MudItem xs=Resize()>
+        <MudButton Variant="Variant.Filled"
+                   Color="Color.Secondary"
+                   Rel="noreferrer"
+                   Target="_blank"
+                   Href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor"
+                   Style=@ShadowButtonAction()
+                   Size="Size.Large">
+            <MudIcon Style="margin-right: 20px;" Icon="fa-brands fa-microsoft fa-bounce" Title="Blazor" />
+            <MudText Inline="false" Typo="Typo.body1">Blazor</MudText>
+        </MudButton>
+    </MudItem>
+</MudGrid>
+
+@code {
+    [Inject]
+    private IBrowserViewportService BrowserViewportService { get; set; }
+
+    private int _width = 0;
+    private int _height = 0;
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await BrowserViewportService.SubscribeAsync(this, fireImmediately: true);
+        }
+
+        await base.OnAfterRenderAsync(firstRender);
+    }
+
+    public async ValueTask DisposeAsync() => await BrowserViewportService.UnsubscribeAsync(this);
+
+    Guid IBrowserViewportObserver.Id { get; } = Guid.NewGuid();
+
+    ResizeOptions IBrowserViewportObserver.ResizeOptions { get; } = new()
+        {
+            ReportRate = 50,
+            NotifyOnBreakpointOnly = false
+        };
+
+    Task IBrowserViewportObserver.NotifyBrowserViewportChangeAsync(BrowserViewportEventArgs browserViewportEventArgs)
+    {
+        _width = browserViewportEventArgs.BrowserWindowSize.Width;
+        _height = browserViewportEventArgs.BrowserWindowSize.Height;
+
+        return InvokeAsync(StateHasChanged);
+    }
+
+    protected override void OnInitialized()
+    {
+        StyleModeIApi.OnChange += StateHasChanged;
+    }
+
+    public void Dispose()
+    {
+        StyleModeIApi.OnChange -= StateHasChanged;
+    }
+
+    private int Resize()
+    {
+        if (_width > 1024)
+        {
+            return 3;
+        }
+        else
+        {
+            return 12;
+        }
+    }
+
+    private string ShadowButtonAction()
+    {
+        if (StyleModeIApi.IsDarkMode == false)
+        {
+            return "border: 3px solid #fd5317; box-shadow: -5px 5px #0e1424, -4px 4px #0e1424,-2px 2px #0e1424; color:#F5F7F8; min-width:175px; min-height:75px;";
+        }
+        else
+        {
+            return "border: 3px solid #F5F7F8; box-shadow: -5px 5px #FF8343, -4px 4px #FF8343,-2px 2px #FF8343; color:#F5F7F8; min-width:175px; min-height:75px;";
+        }
+    }
+
+}

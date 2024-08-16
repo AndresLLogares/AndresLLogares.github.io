@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\PortfolioBlazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8F579B-D2AE-4F99-9124-E311C0E64CBE}|PortfolioBlazor.Client\\PortfolioBlazor.Client.csproj|c:\\projects\\portfolioblazor\\portfolioblazor.client\\pages\\techonologies.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8F579B-D2AE-4F99-9124-E311C0E64CBE}|PortfolioBlazor.Client\\PortfolioBlazor.Client.csproj|solutionrelative:portfolioblazor.client\\pages\\techonologies.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8F579B-D2AE-4F99-9124-E311C0E64CBE}|PortfolioBlazor.Client\\PortfolioBlazor.Client.csproj|c:\\projects\\portfolioblazor\\portfolioblazor.client\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8F579B-D2AE-4F99-9124-E311C0E64CBE}|PortfolioBlazor.Client\\PortfolioBlazor.Client.csproj|solutionrelative:portfolioblazor.client\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Techonologies.razor",
+              "DocumentMoniker": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\Pages\\Techonologies.razor",
+              "RelativeDocumentMoniker": "PortfolioBlazor.Client\\Pages\\Techonologies.razor",
+              "ToolTip": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\Pages\\Techonologies.razor",
+              "RelativeToolTip": "PortfolioBlazor.Client\\Pages\\Techonologies.razor",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAJgAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T00:40:44.403Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "PortfolioBlazor.Client\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor.Client\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "PortfolioBlazor.Client\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T13:46:51.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

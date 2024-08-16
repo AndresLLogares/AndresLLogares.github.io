@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Projects\\PortfolioBlazor\\PortfolioBlazor\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PortfolioBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PortfolioBlazor.props",
+      "PackagePath": "build\\PortfolioBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PortfolioBlazor.props",
+      "PackagePath": "buildMultiTargeting\\PortfolioBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PortfolioBlazor.props",
+      "PackagePath": "buildTransitive\\PortfolioBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
