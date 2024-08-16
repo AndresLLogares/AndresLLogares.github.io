@@ -23,4 +23,6 @@
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgMicrosoft_NET_Sdk_WebAssembly_Pack Condition=" '$(PkgMicrosoft_NET_Sdk_WebAssembly_Pack)' == '' ">C:\Users\Andre\.nuget\packages\microsoft.net.sdk.webassembly.pack\9.0.0-preview.6.24327.7</PkgMicrosoft_NET_Sdk_WebAssembly_Pack>
-    <PkgMicrosoft_NET_ILLink_Tasks Condition=" '$(PkgMicrosoft_NET_ILLink_Tasks)' == '' ">C:\Users\Andre\.nuget\packages\microsoft.net.illink.tasks\8.0.5</PkgMicro
+    <PkgMicrosoft_NET_ILLink_Tasks Condition=" '$(PkgMicrosoft_NET_ILLink_Tasks)' == '' ">C:\Users\Andre\.nuget\packages\microsoft.net.illink.tasks\8.0.5</PkgMicrosoft_NET_ILLink_Tasks>
+  </PropertyGroup>
+</Project>
