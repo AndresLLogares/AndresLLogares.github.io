@@ -1,0 +1,2 @@
+C:\Projects\PortfolioBlazor\release\emcc-props.json
+C:\Projects\PortfolioBlazor\release\web.config
