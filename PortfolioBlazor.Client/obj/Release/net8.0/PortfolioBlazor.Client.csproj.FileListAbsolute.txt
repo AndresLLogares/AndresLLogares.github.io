@@ -1037,9 +1037,6 @@ C:\Projects\PortfolioBlazor\PortfolioBlazor.Client\obj\Release\net8.0\compressed
 C:\Projects\PortfolioBlazor\PortfolioBlazor.Client\obj\Release\net8.0\compressed\2wlvev5lrn-tptq2av103.gz
 C:\Projects\PortfolioBlazor\PortfolioBlazor.Client\obj\Release\net8.0\compressed\wmq2ra3aau-lfu7j35m59.gz
 C:\Projects\PortfolioBlazor\PortfolioBlazor.Client\obj\Release\net8.0\compressed\72s685vl8e-oyz0vx2fzb.gz
-C:\Projects\PortfolioBlazor\PortfolioBlazor.Client\obj\Release\net8.0\compressed\h638zcofdn-qgczicfems.gz
-C:\Projects\PortfolioBlazor\PortfolioBlazor.Client\obj\Release\net8.0\compressed\ia9uqwn3xo-xi65mc0hki.gz
-C:\Projects\PortfolioBlazor\PortfolioBlazor.Client\obj\Release\net8.0\compressed\b7389wuqx0-b6o6l0iodz.gz
 C:\Projects\PortfolioBlazor\PortfolioBlazor.Client\obj\Release\net8.0\staticwebassets.build.json
 C:\Projects\PortfolioBlazor\PortfolioBlazor.Client\obj\Release\net8.0\staticwebassets.development.json
 C:\Projects\PortfolioBlazor\PortfolioBlazor.Client\obj\Release\net8.0\staticwebassets.build.endpoints.json
@@ -1054,3 +1051,6 @@ C:\Projects\PortfolioBlazor\PortfolioBlazor.Client\obj\Release\net8.0\PortfolioB
 C:\Projects\PortfolioBlazor\PortfolioBlazor.Client\obj\Release\net8.0\refint\PortfolioBlazor.Client.dll
 C:\Projects\PortfolioBlazor\PortfolioBlazor.Client\obj\Release\net8.0\PortfolioBlazor.Client.pdb
 C:\Projects\PortfolioBlazor\PortfolioBlazor.Client\obj\Release\net8.0\ref\PortfolioBlazor.Client.dll
+C:\Projects\PortfolioBlazor\PortfolioBlazor.Client\obj\Release\net8.0\compressed\h638zcofdn-18w6qwholu.gz
+C:\Projects\PortfolioBlazor\PortfolioBlazor.Client\obj\Release\net8.0\compressed\ia9uqwn3xo-9sm2z01oml.gz
+C:\Projects\PortfolioBlazor\PortfolioBlazor.Client\obj\Release\net8.0\compressed\b7389wuqx0-4ranedu5k7.gz
